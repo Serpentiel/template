@@ -20,7 +20,7 @@
   <br>
   <br>
   <a href="https://github.com/Serpentiel/template">
-    <img src="../repo-assets/README.md/logo.png" alt="Logo" width="404" height="140">
+    <img src="https://github.com/Serpentiel/template/blob/repo-assets/README.md/logo.png" alt="Logo" width="404" height="140">
   </a>
   <h3>[PROJECT_NAME]</h3>
   <p>[PROJECT_DESCRIPTION]</p>
@@ -92,6 +92,9 @@ contributions you make are greatly appreciated.
 
 If you would like to contribute, please make sure to take a look
 at [this guideline](https://github.com/Serpentiel/template/blob/main/CONTRIBUTING.md) beforehand.
+
+Please see our [security policy](https://github.com/Serpentiel/template/blob/main/SECURITY.md) to report any possible
+vulnerabilities or serious issues.
 
 <!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
