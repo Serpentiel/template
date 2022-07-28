@@ -1,10 +1,9 @@
 ---
-name: "\U0001F4A1 Feature Request"
+name: 💡 Feature Request
 about: What would make this project even better?
 title: ''
 labels: enhancement
 assignees: ''
-
 ---
 
 **What is currently missing?**

@@ -7,17 +7,39 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+<!-- ### Added -->
+<!-- markdownlint-disable-next-line -->
+### Added
+
+- `markdownlint` GitHub Actions workflow
+
+<!-- ### Changed -->
+<!-- markdownlint-disable-next-line -->
 ### Changed
 
 - Dropped trailing dots from list items in `CONTRIBUTING.md`
 
+<!-- ### Deprecated -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Removed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Fixed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Security -->
+<!-- markdownlint-disable-next-line -->
+
 ## [1.1.0] - 2022-07-28
 
+<!-- markdownlint-disable-next-line -->
 ### Added
 
 - `FUNDING.yml`
 - GitHub Actions workflow that enforces changelog entries for every PR to `main`
 
+<!-- markdownlint-disable-next-line -->
 ### Changed
 
 - Lowercased the `enforce_changelog_entries.yml` GitHub Actions workflow's name
@@ -25,21 +47,21 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [1.0.1] - 2022-07-28
 
+<!-- markdownlint-disable-next-line -->
 ### Changed
 
 - Lowercased the documentation word in `CONTRIBUTING.md`
 
 ## [1.0.0] - 2022-07-28
 
+<!-- markdownlint-disable-next-line -->
 ### Added
 
 - The template
 - The changelog
 
-<!-- DIFF LINKS -->
-
+<!-- VERSION DIFFLINKS -->
+[Unreleased]: https://github.com/Serpentiel/template/compare/v1.1.0...HEAD
 [1.1.0]: https://github.com/Serpentiel/template/compare/v1.0.1...v1.1.0
-
 [1.0.1]: https://github.com/Serpentiel/template/compare/v1.0.0...v1.0.1
-
 [1.0.0]: https://github.com/Serpentiel/template/releases/tag/v1.0.0

@@ -1,4 +1,6 @@
+<!-- markdownlint-disable -->
 <div id="top"></div>
+<!-- markdownlint-restore -->
 
 # Contributing to [PROJECT_NAME]
 
@@ -17,6 +19,7 @@ project and show your appreciation, which we would also be very happy about:
 - Refer this project in your project's `README.md`
 - Mention the project at local meet-ups and tell your friends/colleagues about it
 
+<!-- markdownlint-disable -->
 <details id="table-of-contents">
   <summary>Table of Contents</summary>
   <ul>
@@ -72,6 +75,7 @@ project and show your appreciation, which we would also be very happy about:
     </li>
   </ul>
 </details>
+<!-- markdownlint-restore -->
 
 ## Code of Conduct
 
@@ -79,11 +83,13 @@ This project and everyone participating in it is governed by
 our [Code of Conduct](https://github.com/Serpentiel/template/blob/master/CODE_OF_CONDUCT.md). By participating, you are
 expected to uphold this code. Please report unacceptable behavior via any contact method available to you.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## I Have a Question
 
-> **N.B.** If you want to ask a question, we assume that you have read the available [documentation]().
+> **N.B.** If you want to ask a question, we assume that you have read the available [documentation]([DOCUMENTATION_URL]).
 
 Before you ask a question, it is best to search for existing [issues](https://github.com/Serpentiel/template/issues)
 that might help you. In case you have found a suitable issue and still need clarification, you can write your question
@@ -97,7 +103,9 @@ If you then still feel the need to ask a question and need clarification, we rec
 
 We will then take care of the issue as soon as possible.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## I Want to Contribute
 
@@ -123,11 +131,11 @@ following steps in advance to help us fix any potential bug as fast as possible.
   discussed the issue
 - Check if the issue is reproducible on the latest and/or previous versions of **[PROJECT_NAME]**
 - Collect some relevant information about the bug:
-    - Stack trace
-    - Platform, OS and its version
-    - Version of the tools involved that seems relevant
-    - If possible, your input and the output
-    - Steps required to reproduce the issue reliably
+  - Stack trace
+  - Platform, OS and its version
+  - Version of the tools involved that seems relevant
+  - If possible, your input and the output
+  - Steps required to reproduce the issue reliably
 
 #### How Do I Submit a Good Bug Report?
 
@@ -147,10 +155,10 @@ Once the bug report is filed:
 
 - The project team will check the issue and label and/or relabel it accordingly
 - A team member will try to reproduce the issue with your provided steps
-    - If there are no reproduction steps or no obvious way to reproduce the issue, the team will ask you for those steps
+  - If there are no reproduction steps or no obvious way to reproduce the issue, the team will ask you for those steps
       and label the issue as `needs repro`—bugs with the `needs repro` label will not be addressed until they are
       reproduced
-    - If the team is able to reproduce the issue, it will be labeled as `needs fix`, as well as possibly other labels,
+  - If the team is able to reproduce the issue, it will be labeled as `needs fix`, as well as possibly other labels,
       and the issue will be left to be [implemented by someone](#your-first-code-contribution)
 
 ### Suggesting Enhancements
@@ -183,7 +191,9 @@ Enhancement suggestions are tracked as [GitHub Issues](https://github.com/Serpen
 - Explain why this enhancement would be useful to most **[PROJECT_NAME]** users—you may also want to point out the other
   projects that solved it better and which could serve as inspiration
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ### Your First Code Contribution
 
@@ -193,7 +203,9 @@ Enhancement suggestions are tracked as [GitHub Issues](https://github.com/Serpen
 
 <!-- TODO -->
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Styleguides
 
@@ -203,10 +215,14 @@ Enhancement suggestions are tracked as [GitHub Issues](https://github.com/Serpen
 
 <!-- TODO -->
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Join the Project Team
 
 <!-- TODO -->
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
