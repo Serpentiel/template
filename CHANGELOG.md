@@ -7,6 +7,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-07-28
+
 ### Changed
 
 - Lowercased the documentation word in `CONTRIBUTING.md`
@@ -17,5 +19,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - The template
 - The changelog
+
+[1.0.1]: https://github.com/Serpentiel/template/compare/v1.0.0...v1.0.1
 
 [1.0.0]: https://github.com/Serpentiel/template/releases/tag/v1.0.0
