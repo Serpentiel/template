@@ -44,6 +44,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Use dashes instead of underscores in workflows
 - Rename `LICENSE` to `LICENSE.md`
 - Return underscores to filenames under `.github`
+- Enable workflows for PRs to release branches
 
 <!-- markdownlint-disable-next-line -->
 
