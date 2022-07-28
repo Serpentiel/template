@@ -151,7 +151,7 @@ Once the bug report is filed:
       and label the issue as `needs repro`—bugs with the `needs repro` label will not be addressed until they are
       reproduced
     - If the team is able to reproduce the issue, it will be labeled as `needs fix`, as well as possibly other labels,
-      and the issue will be left to be [implemented by someone](#your-first-code-contribution).
+      and the issue will be left to be [implemented by someone](#your-first-code-contribution)
 
 ### Suggesting Enhancements
 
@@ -168,7 +168,7 @@ community to understand your suggestion and find related suggestions.
   suggested—if it has, add a comment to the existing issue instead of opening a new one
 - Find out whether your idea fits with the scope and aims of the project—it is up to you to make a strong case to
   convince the project's developers of the merits of this feature—keep in mind that we want features that will be useful
-  to the majority of our users and not just a small subset.
+  to the majority of our users and not just a small subset
 
 #### How Do I Submit a Good Enhancement Suggestion?
 
