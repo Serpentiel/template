@@ -36,6 +36,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - `dependency_review.yml` GitHub Actions workflow
 - `CODEOWNERS`
 - `SECURITY.md`
+- `ATTRIBUTION.md`
 
 <!-- markdownlint-disable-next-line -->
 ### Changed
