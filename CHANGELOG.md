@@ -47,15 +47,14 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Enable workflows for PRs to release branches
 
 <!-- markdownlint-disable-next-line -->
-
-<!-- markdownlint-disable-next-line -->
 ### Removed
 
 - `enforce_changelog_entries.yml` GitHub Actions workflow
 
 <!-- markdownlint-disable-next-line -->
+### Fixed
 
-<!-- markdownlint-disable-next-line -->
+- `dependency_review.yml` GitHub Actions workflow
 
 ## [1.1.0] - 2022-07-28
 
