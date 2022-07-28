@@ -1,4 +1,4 @@
-name: Enforce Changelog Entries
+name: Enforce changelog entries
 
 on:
   pull_request_target:

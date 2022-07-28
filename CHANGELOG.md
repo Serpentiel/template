@@ -12,6 +12,10 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - `FUNDING.yml`
 - GitHub Actions workflow that enforces changelog entries for every PR to `main`
 
+### Changed
+
+- Lowercased the `enforce_changelog_entries.yml` GitHub Actions workflow's name
+
 ## [1.0.1] - 2022-07-28
 
 ### Changed
