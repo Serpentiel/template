@@ -7,6 +7,11 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Added
+
+- `FUNDING.yml`
+- GitHub Actions workflow that enforces changelog entries for every PR to `main`
+
 ## [1.0.1] - 2022-07-28
 
 ### Changed
