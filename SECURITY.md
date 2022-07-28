@@ -8,7 +8,7 @@
 issues.
 
 <!-- markdownlint-disable -->
-<details id="table-of-contents">
+<details>
   <summary>Table of Contents</summary>
   <ul>
     <li>
@@ -104,9 +104,9 @@ Our team will respond to vulnerability reports as follows:
 4. If a vulnerability is acknowledged and the timeline for a fix is determined, our team will work on a plan to
    communicate with the appropriate community, including identifying mitigating steps that affected users can take to
    protect themselves until the fix is rolled out
-5. Our team will also create a [CVSS](https://www.first.org/cvss/specification-document) using
-   the [CVSS Calculator](https://www.first.org/cvss/calculator/3.0). Our team makes the final call on the calculated
-   CVSS; it is better to move quickly than making the CVSS perfect. Issues may also be reported
+5. Our team will also create a [CVSS](https://first.org/cvss/specification-document) using
+   the [CVSS Calculator](https://first.org/cvss/calculator/3.0). Our team makes the final call on the calculated CVSS;
+   it is better to move quickly than making the CVSS perfect. Issues may also be reported
    to [Mitre](https://cve.mitre.org/) using
    this [scoring calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator). The CVE will initially be set to
    private
