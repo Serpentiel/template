@@ -15,6 +15,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Changed
 
 - Lowercased the `enforce_changelog_entries.yml` GitHub Actions workflow's name
+- Updated issue quicklinks in `README.md` to use templates
 
 ## [1.0.1] - 2022-07-28
 
