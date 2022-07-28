@@ -7,6 +7,10 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+
+- Dropped trailing dots from list items in `CONTRIBUTING.md`
+
 ## [1.1.0] - 2022-07-28
 
 ### Added
