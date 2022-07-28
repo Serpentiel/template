@@ -51,6 +51,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Exclude `LICENSE.md` from `markdownlint`
 - Set GitHub Actions workflows permissions
 - Update `README.md`, `CONTRIBUTING.md` and `.github/config.yml` with links to `SECURITY.md`
+- Improve pull request template
 
 <!-- markdownlint-disable-next-line -->
 ### Removed
