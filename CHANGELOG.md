@@ -23,6 +23,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - The project now uses Changelog Enforcer GitHub Action
 - Reworked lint GitHub Actions workflow
 - Use dashes instead of underscores in workflows
+- Renamed `LICENSE` to `LICENSE.md`
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
