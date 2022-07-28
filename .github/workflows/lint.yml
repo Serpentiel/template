@@ -1,4 +1,4 @@
-name: Lint Markdown files
+name: Lint
 
 on:
   pull_request_target:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  lint_markdown_files:
+  markdownlint:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
