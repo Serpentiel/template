@@ -4,6 +4,8 @@ on:
   pull_request_target:
     branches:
       - main
+      - release-v*
+
 jobs:
   changelog-enforcer:
     runs-on: ubuntu-latest
