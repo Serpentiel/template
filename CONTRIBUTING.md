@@ -83,7 +83,7 @@ expected to uphold this code. Please report unacceptable behavior via any contac
 
 ## I Have a Question
 
-> **N.B.** If you want to ask a question, we assume that you have read the available [Documentation]().
+> **N.B.** If you want to ask a question, we assume that you have read the available [documentation]().
 
 Before you ask a question, it is best to search for existing [issues](https://github.com/Serpentiel/template/issues)
 that might help you. In case you have found a suitable issue and still need clarification, you can write your question

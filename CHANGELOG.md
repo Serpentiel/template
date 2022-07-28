@@ -7,6 +7,10 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+
+- Lowercased the documentation word in `CONTRIBUTING.md`
+
 ## [1.0.0] - 2022-07-28
 
 ### Added
