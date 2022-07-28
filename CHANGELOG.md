@@ -12,10 +12,6 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
-### Changed
-
-- Release branch wildcard in GitHub Actions workflows
-- Run possible GitHub Actions workflows on push too
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
@@ -29,7 +25,15 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- ### Security -->
 <!-- markdownlint-disable-next-line -->
 
-## [1.2.0] - 2022-07-28
+## [1.2.1] - 2022-07-29
+
+<!-- markdownlint-disable-next-line -->
+### Changed
+
+- Release branch wildcard in GitHub Actions workflows
+- Run possible GitHub Actions workflows on push too
+
+## [1.2.0] - 2022-07-29
 
 <!-- markdownlint-disable-next-line -->
 ### Added
@@ -99,6 +103,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- VERSION DIFFLINKS -->
 [Unreleased]: https://github.com/Serpentiel/template/compare/v1.2.0...HEAD
+[1.2.1]: https://github.com/Serpentiel/template/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/Serpentiel/template/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Serpentiel/template/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/Serpentiel/template/compare/v1.0.0...v1.0.1
