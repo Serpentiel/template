@@ -12,24 +12,27 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Added
 
 - `markdownlint` GitHub Actions workflow
-- `dependabot.yml`
+- `dependabot.yml` GitHub config
+- `changelog-enforcer.yml` GitHub Actions workflow
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
 ### Changed
 
-- Dropped trailing dots from list items in `CONTRIBUTING.md`
-- Renamed lint job in `lint_markdown_files.yml`
-- The project now uses Changelog Enforcer GitHub Action
-- Reworked lint GitHub Actions workflow
+- Drop trailing dots from list items in `CONTRIBUTING.md`
+- Rename lint job in `lint_markdown_files.yml`
+- Reworke lint GitHub Actions workflow
 - Use dashes instead of underscores in workflows
-- Renamed `LICENSE` to `LICENSE.md`
+- Rename `LICENSE` to `LICENSE.md`
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
 
 <!-- ### Removed -->
 <!-- markdownlint-disable-next-line -->
+### Removed
+
+- `enforce_changelog_entries.yml` GitHub Actions workflow
 
 <!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
@@ -48,15 +51,15 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- markdownlint-disable-next-line -->
 ### Changed
 
-- Lowercased the `enforce_changelog_entries.yml` GitHub Actions workflow's name
-- Updated issue quicklinks in `README.md` to use templates
+- Lowercase the `enforce_changelog_entries.yml` GitHub Actions workflow's name
+- Update issue quicklinks in `README.md` to use templates
 
 ## [1.0.1] - 2022-07-28
 
 <!-- markdownlint-disable-next-line -->
 ### Changed
 
-- Lowercased the documentation word in `CONTRIBUTING.md`
+- Lowercase the documentation word in `CONTRIBUTING.md`
 
 ## [1.0.0] - 2022-07-28
 
