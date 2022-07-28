@@ -34,6 +34,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - `dependabot.yml` GitHub config
 - `changelog_enforcer.yml` GitHub Actions workflow
 - `dependency_review.yml` GitHub Actions workflow
+- `CODEOWNERS`
 
 <!-- markdownlint-disable-next-line -->
 ### Changed
