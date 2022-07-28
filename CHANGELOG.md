@@ -24,6 +24,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Rework lint GitHub Actions workflow
 - Use dashes instead of underscores in workflows
 - Rename `LICENSE` to `LICENSE.md`
+- Return underscores to filenames under `.github`
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
