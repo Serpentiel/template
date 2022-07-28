@@ -2,3 +2,6 @@ contact_links:
   - name: 📖 Contributing Guidelines
     url: https://github.com/Serpentiel/template/blob/main/CONTRIBUTING.md
     about: Don't forget to check our contributing guidelines out!
+  - name: 🛡️ Security Policy
+    url: https://github.com/Serpentiel/template/blob/main/SECURITY.md
+    about: Our security policy is as important as contributing guidelines are, too!

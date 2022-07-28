@@ -6,6 +6,7 @@
 
 First off, thanks for taking the time to contribute! ❤️
 
+<!-- markdownlint-disable-next-line -->
 All types of contributions are encouraged and valued. See the [Table of Contents](#table-of-contents) for different ways
 to help and details about how this project handles them. Please make sure to read the relevant section before making
 your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. The
@@ -89,7 +90,8 @@ expected to uphold this code. Please report unacceptable behavior via any contac
 
 ## I Have a Question
 
-> **N.B.** If you want to ask a question, we assume that you have read the available [documentation]([DOCUMENTATION_URL]).
+> **N.B.** If you want to ask a question, we assume that you have read the
+> available [documentation]([DOCUMENTATION_URL]).
 
 Before you ask a question, it is best to search for existing [issues](https://github.com/Serpentiel/template/issues)
 that might help you. In case you have found a suitable issue and still need clarification, you can write your question
@@ -140,8 +142,8 @@ following steps in advance to help us fix any potential bug as fast as possible.
 #### How Do I Submit a Good Bug Report?
 
 > **N.B.** You must never report security related issues, vulnerabilities or bugs including sensitive information to the
-> issue tracker, or elsewhere in public. Instead sensitive bugs must be reported via any contact method available to
-> you.
+> issue tracker, or elsewhere in public. Instead sensitive bugs must be reported according to
+> our [security policy](https://github.com/Serpentiel/template/blob/main/SECURITY.mdZ).
 
 We use GitHub Issues to track bugs and errors. If you run into an issue with the project:
 

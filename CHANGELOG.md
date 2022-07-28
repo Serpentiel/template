@@ -9,14 +9,35 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Added -->
 <!-- markdownlint-disable-next-line -->
+
+<!-- ### Changed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Deprecated -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Removed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Fixed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Security -->
+<!-- markdownlint-disable-next-line -->
+
+## [1.2.0] - 2022-07-28
+
+<!-- markdownlint-disable-next-line -->
 ### Added
 
-- `markdownlint` GitHub Actions workflow
+- `lint.yml` GitHub Actions workflow featuring `markdownlint`
 - `dependabot.yml` GitHub config
 - `changelog_enforcer.yml` GitHub Actions workflow
 - `dependency_review.yml` GitHub Actions workflow
+- `CODEOWNERS`
+- `SECURITY.md`
+- `ATTRIBUTION.md`
 
-<!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
 ### Changed
 
@@ -26,21 +47,22 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Use dashes instead of underscores in workflows
 - Rename `LICENSE` to `LICENSE.md`
 - Return underscores to filenames under `.github`
+- Enable workflows for PRs to release branches
+- Exclude `LICENSE.md` from `markdownlint`
+- Set GitHub Actions workflows permissions
+- Update `README.md`, `CONTRIBUTING.md` and `.github/config.yml` with links to `SECURITY.md`
+- Improve pull request template
 
-<!-- ### Deprecated -->
-<!-- markdownlint-disable-next-line -->
-
-<!-- ### Removed -->
 <!-- markdownlint-disable-next-line -->
 ### Removed
 
 - `enforce_changelog_entries.yml` GitHub Actions workflow
 
-<!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
+### Fixed
 
-<!-- ### Security -->
-<!-- markdownlint-disable-next-line -->
+- `dependency_review.yml` GitHub Actions workflow
+- Styling in `CODE_OF_CONDUCT.md` and `SECURITY.md`
 
 ## [1.1.0] - 2022-07-28
 
@@ -72,7 +94,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - The changelog
 
 <!-- VERSION DIFFLINKS -->
-[Unreleased]: https://github.com/Serpentiel/template/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/Serpentiel/template/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/Serpentiel/template/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Serpentiel/template/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/Serpentiel/template/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/Serpentiel/template/releases/tag/v1.0.0
