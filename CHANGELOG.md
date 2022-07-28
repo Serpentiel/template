@@ -12,6 +12,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
+### Changed
+
+- Release branch wildcard in GitHub Actions workflows
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
