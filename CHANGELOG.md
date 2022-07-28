@@ -35,6 +35,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - `changelog_enforcer.yml` GitHub Actions workflow
 - `dependency_review.yml` GitHub Actions workflow
 - `CODEOWNERS`
+- `SECURITY.md`
 
 <!-- markdownlint-disable-next-line -->
 ### Changed
@@ -48,6 +49,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Enable workflows for PRs to release branches
 - Exclude `LICENSE.md` from `markdownlint`
 - Set GitHub Actions workflows permissions
+- Update `README.md`, `CONTRIBUTING.md` and `.github/config.yml` with links to `SECURITY.md`
 
 <!-- markdownlint-disable-next-line -->
 ### Removed
