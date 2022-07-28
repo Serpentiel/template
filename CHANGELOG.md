@@ -9,6 +9,25 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Added -->
 <!-- markdownlint-disable-next-line -->
+
+<!-- ### Changed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Deprecated -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Removed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Fixed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Security -->
+<!-- markdownlint-disable-next-line -->
+
+## [1.2.0] - 2022-07-28
+
+<!-- markdownlint-disable-next-line -->
 ### Added
 
 - `markdownlint` GitHub Actions workflow
@@ -16,7 +35,6 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - `changelog_enforcer.yml` GitHub Actions workflow
 - `dependency_review.yml` GitHub Actions workflow
 
-<!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
 ### Changed
 
@@ -27,19 +45,15 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Rename `LICENSE` to `LICENSE.md`
 - Return underscores to filenames under `.github`
 
-<!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
 
-<!-- ### Removed -->
 <!-- markdownlint-disable-next-line -->
 ### Removed
 
 - `enforce_changelog_entries.yml` GitHub Actions workflow
 
-<!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
 
-<!-- ### Security -->
 <!-- markdownlint-disable-next-line -->
 
 ## [1.1.0] - 2022-07-28
