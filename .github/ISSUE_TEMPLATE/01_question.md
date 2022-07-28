@@ -1,10 +1,9 @@
 ---
-name: "❓ Ask a Question"
+name: ❓ Ask a Question
 about: Got stuck or found something to be missing in the docs? Ask away!
 title: ''
 labels: question
 assignees: ''
-
 ---
 
 **What can we help you with?**

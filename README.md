@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 <div id="top"></div>
 
 <div align="center">
@@ -58,12 +59,15 @@
     </li>
   </ul>
 </details>
+<!-- markdownlint-restore -->
 
 ## About the Project
 
 <!-- TODO -->
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Getting Started
 
@@ -77,7 +81,9 @@
 
 <!-- TODO -->
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Contributing
 
@@ -87,7 +93,9 @@ contributions you make are greatly appreciated.
 If you would like to contribute, please make sure to take a look
 at [this guideline](https://github.com/Serpentiel/template/blob/main/CONTRIBUTING.md) beforehand.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## License
 
@@ -96,4 +104,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 > **N.B.** This project explicitly does not requires its contributors to sign a _Contributor License Agreement_ nor does
 > it posses one.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->

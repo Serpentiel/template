@@ -1,7 +1,10 @@
+<!-- markdownlint-disable -->
 <div id="top"></div>
+<!-- markdownlint-restore -->
 
 # Contributor Covenant Code of Conduct
 
+<!-- markdownlint-disable -->
 <details>
   <summary>Table of Contents</summary>
   <ul>
@@ -42,6 +45,7 @@
     </li>
   </ul>
 </details>
+<!-- markdownlint-restore -->
 
 ## Our Pledge
 
@@ -52,7 +56,9 @@ or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Our Standards
 
@@ -72,7 +78,9 @@ Examples of unacceptable behavior include:
 - Publishing others' private information, such as a physical or email address, without their explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Enforcement Responsibilities
 
@@ -84,7 +92,9 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for
 moderation decisions when appropriate.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Scope
 
@@ -92,7 +102,9 @@ This Code of Conduct applies within all community spaces, and also applies when 
 the community in public spaces. Examples of representing our community include using an official e-mail address, posting
 via an official social media account, or acting as an appointed representative at an online or offline event.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Enforcement
 
@@ -102,7 +114,9 @@ fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Enforcement Guidelines
 
@@ -141,19 +155,23 @@ behavior, harassment of an individual, or aggression toward or disparagement of 
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->
 
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available
-at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+at <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
 Community Impact Guidelines were inspired
 by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq.
-Translations are available at https://www.contributor-covenant.org/translations.
+For answers to common questions about this code of conduct, see the FAQ at <https://www.contributor-covenant.org/faq>.
+Translations are available at <https://www.contributor-covenant.org/translations>.
 
+<!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
+<!-- markdownlint-restore -->

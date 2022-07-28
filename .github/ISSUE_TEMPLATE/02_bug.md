@@ -1,10 +1,9 @@
 ---
-name: "\U0001F41C Report a Bug"
+name: 🐜 Report a Bug
 about: Spotted a problem? Let us know!
 title: ''
 labels: bug
 assignees: ''
-
 ---
 
 **What happened?**
