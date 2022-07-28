@@ -20,6 +20,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - Dropped trailing dots from list items in `CONTRIBUTING.md`
 - Renamed lint job in `lint_markdown_files.yml`
+- Use Changelog Enforcer GitHub Action
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
