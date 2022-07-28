@@ -22,6 +22,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Renamed lint job in `lint_markdown_files.yml`
 - The project now uses Changelog Enforcer GitHub Action
 - Reworked lint GitHub Actions workflow
+- Use dashes instead of underscores in workflows
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
