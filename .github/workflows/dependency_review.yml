@@ -1,10 +1,13 @@
 name: Dependency Review
 
 on:
-  pull_request_target:
-    branches:
-      - main
-      - release-v*
+  - pull_request
+
+# TODO: This is currently not supported, see https://github.com/actions/dependency-review-action/issues/30.
+#  pull_request_target:
+#    branches:
+#      - main
+#      - release-v*
 
 jobs:
   dependency-review:
