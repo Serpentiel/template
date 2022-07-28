@@ -161,7 +161,7 @@ behavior, harassment of an individual, or aggression toward or disparagement of 
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][https://contributor-covenant.org], version 2.0,
+This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org), version 2.0,
 available at <https://contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
 Community Impact Guidelines were inspired

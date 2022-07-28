@@ -81,9 +81,9 @@ Projects listed below are ordered alphabetically.
 
 ### Aiven Terraform Provider
 
-https://github.com/aiven/terraform-provider-aiven
+<https://github.com/aiven/terraform-provider-aiven>
 
-```
+```text
 The MIT License (MIT)
 
 Copyright (c) 2017 jelmersnoeck
@@ -110,9 +110,9 @@ SOFTWARE.
 
 ### Appium
 
-https://github.com/appium/appium
+<https://github.com/appium/appium>
 
-```
+```text
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -318,9 +318,9 @@ https://github.com/appium/appium
 
 ### Best-README-Template
 
-https://github.com/othneildrew/Best-README-Template
+<https://github.com/othneildrew/Best-README-Template>
 
-```
+```text
 MIT License
 
 Copyright (c) 2021 Othneil Drew
@@ -346,9 +346,9 @@ SOFTWARE.
 
 ### Changelog Enforcer
 
-https://github.com/dangoslen/changelog-enforcer
+<https://github.com/dangoslen/changelog-enforcer>
 
-```
+```text
 MIT License
 
 Copyright (c) 2019 GitHub Actions
@@ -374,9 +374,9 @@ SOFTWARE.
 
 ### Checkout
 
-https://github.com/actions/checkout
+<https://github.com/actions/checkout>
 
-```
+```text
 
 The MIT License (MIT)
 
@@ -403,9 +403,9 @@ THE SOFTWARE.
 
 ### contributing-gen-web
 
-https://github.com/bttger/contributing-gen-web
+<https://github.com/bttger/contributing-gen-web>
 
-```
+```text
 MIT License
 
 Copyright (c) 2020 Tom C. Böttger
@@ -647,11 +647,11 @@ the [FAQ](//wiki.creativecommons.org/FAQ#officialtranslations) for more informat
 
 ### contributors-img
 
-https://github.com/lacolaco/contributors-img
+<https://github.com/lacolaco/contributors-img>
 
 ### Dependency Review
 
-```
+```text
 The MIT License (MIT)
 
 Copyright (c) 2022 GitHub, Inc. and contributors
@@ -677,9 +677,9 @@ THE SOFTWARE.
 
 ### Harbor
 
-https://github.com/goharbor/harbor
+<https://github.com/goharbor/harbor>
 
-```
+```text
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -885,9 +885,9 @@ https://github.com/goharbor/harbor
 
 ### Keep a Changelog
 
-https://github.com/olivierlacan/keep-a-changelog
+<https://github.com/olivierlacan/keep-a-changelog>
 
-```
+```text
 The MIT License (MIT)
 
 Copyright (c) 2014 Olivier Lacan
@@ -913,9 +913,9 @@ SOFTWARE.
 
 ### markdownlint-cli2-action
 
-https://github.com/DavidAnson/markdownlint-cli2-action
+<https://github.com/DavidAnson/markdownlint-cli2-action>
 
-```
+```text
 MIT License
 
 Copyright (c) 2021-2022 David Anson
@@ -941,9 +941,9 @@ SOFTWARE.
 
 ### Project Mu
 
-https://github.com/microsoft/mu
+<https://github.com/microsoft/mu>
 
-```
+```text
 BSD 2-Clause License
 
 Copyright (c) Microsoft
@@ -973,9 +973,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ### Shields.io
 
-https://github.com/badges/shields
+<https://github.com/badges/shields>
 
-```
+```text
 CC0 1.0 Universal
 
 Statement of Purpose
