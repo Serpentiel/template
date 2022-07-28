@@ -30,7 +30,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- markdownlint-disable-next-line -->
 ### Added
 
-- `markdownlint` GitHub Actions workflow
+- `lint.yml` GitHub Actions workflow featuring `markdownlint`
 - `dependabot.yml` GitHub config
 - `changelog_enforcer.yml` GitHub Actions workflow
 - `dependency_review.yml` GitHub Actions workflow
@@ -45,6 +45,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Rename `LICENSE` to `LICENSE.md`
 - Return underscores to filenames under `.github`
 - Enable workflows for PRs to release branches
+- Exclude `LICENSE.md` from `markdownlint`
 
 <!-- markdownlint-disable-next-line -->
 ### Removed
