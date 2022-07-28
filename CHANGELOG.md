@@ -15,6 +15,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Changed
 
 - Release branch wildcard in GitHub Actions workflows
+- Run possible GitHub Actions workflows on push too
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
