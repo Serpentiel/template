@@ -26,7 +26,11 @@
   <br>
   <br>
   <p>
-    <a href="https://github.com/Serpentiel/template/issues/new?labels=bug">Report a Bug</a> &bullet; <a href="https://github.com/Serpentiel/template/issues/new?labels=enhancement">Request a Feature</a>
+    <a href="https://github.com/Serpentiel/template/issues/new?labels=question&template=01_question.md">Ask a Question</a>
+    &bullet;
+    <a href="https://github.com/Serpentiel/template/issues/new?labels=bug&template=02_bug.md">Report a Bug</a>
+    &bullet;
+    <a href="https://github.com/Serpentiel/template/issues/new?labels=enhancement&template=03_feature.md">Request a Feature</a>
   </p>
 </div>
 <details>
