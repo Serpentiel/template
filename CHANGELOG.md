@@ -47,6 +47,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Return underscores to filenames under `.github`
 - Enable workflows for PRs to release branches
 - Exclude `LICENSE.md` from `markdownlint`
+- Set GitHub Actions workflows permissions
 
 <!-- markdownlint-disable-next-line -->
 ### Removed
