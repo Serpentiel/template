@@ -21,7 +21,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - Drop trailing dots from list items in `CONTRIBUTING.md`
 - Rename lint job in `lint_markdown_files.yml`
-- Reworke lint GitHub Actions workflow
+- Rework lint GitHub Actions workflow
 - Use dashes instead of underscores in workflows
 - Rename `LICENSE` to `LICENSE.md`
 
@@ -45,13 +45,13 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- markdownlint-disable-next-line -->
 ### Added
 
-- `FUNDING.yml`
-- GitHub Actions workflow that enforces changelog entries for every PR to `main`
+- `FUNDING.yml` GitHub config
+- `enforce_changelog_entries.yml` GitHub Actions workflow
 
 <!-- markdownlint-disable-next-line -->
 ### Changed
 
-- Lowercase the `enforce_changelog_entries.yml` GitHub Actions workflow's name
+- Drop title case for `enforce_changelog_entries.yml` GitHub Actions workflow's name
 - Update issue quicklinks in `README.md` to use templates
 
 ## [1.0.1] - 2022-07-28
