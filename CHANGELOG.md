@@ -13,7 +13,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - `markdownlint` GitHub Actions workflow
 - `dependabot.yml` GitHub config
-- `changelog-enforcer.yml` GitHub Actions workflow
+- `changelog_enforcer.yml` GitHub Actions workflow
+- `dependency_review.yml` GitHub Actions workflow
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
