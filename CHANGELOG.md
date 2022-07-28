@@ -61,6 +61,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Fixed
 
 - `dependency_review.yml` GitHub Actions workflow
+- Styling in `CODE_OF_CONDUCT.md` and `SECURITY.md`
 
 ## [1.1.0] - 2022-07-28
 
