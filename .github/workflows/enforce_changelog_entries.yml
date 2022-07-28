@@ -1,0 +1,14 @@
+name: Enforce Changelog Entries
+
+on:
+  pull_request_target:
+    branches:
+      - main
+jobs:
+  enforce_changelog_entries:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: mwcodebase/versioning-checker@v2.2
+        with:
+          tracked_files: CHANGELOG.md
