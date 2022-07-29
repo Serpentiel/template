@@ -102,7 +102,8 @@ vulnerabilities or serious issues.
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE.md`](https://github.com/Serpentiel/template/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [`LICENSE.md`](https://github.com/Serpentiel/template/blob/main/LICENSE.md) for
+more information.
 
 > **N.B.** This project explicitly does not requires its contributors to sign a _Contributor License Agreement_ nor does
 > it posses one.
