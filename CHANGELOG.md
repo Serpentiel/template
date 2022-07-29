@@ -34,6 +34,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Added
 
 - Some info to `README.md`
+- Attribution to Font Awesome project
 
 <!-- markdownlint-disable-next-line -->
 ### Changed
