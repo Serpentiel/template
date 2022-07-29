@@ -18,6 +18,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Removed -->
 <!-- markdownlint-disable-next-line -->
+### Removed
+
+- `markdownlint` comments from PR template
 
 <!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
