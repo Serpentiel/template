@@ -9,6 +9,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Added -->
 <!-- markdownlint-disable-next-line -->
+### Added
+
+- Some info to `README.md`
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
