@@ -1,9 +1,7 @@
 ---
-name: 🐜 Report a Bug
+name: 🐜 Report a bug
 about: Spotted a problem? Let us know!
-title: ''
 labels: bug
-assignees: ''
 ---
 
 **What happened?**

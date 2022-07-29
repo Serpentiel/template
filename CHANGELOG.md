@@ -12,6 +12,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
+### Changed
+
+- Drop title case from issue template names
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
