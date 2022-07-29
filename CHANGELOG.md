@@ -12,6 +12,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
+### Changed
+
+- Update license links in `README.md`
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
