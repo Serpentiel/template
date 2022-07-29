@@ -20,10 +20,10 @@
   <br>
   <br>
   <a href="https://github.com/Serpentiel/template">
-    <img src="https://github.com/Serpentiel/template/blob/repo-assets/README.md/logo.png" alt="Logo" width="404" height="140">
+    <img src="https://github.com/Serpentiel/template/blob/repo-assets/README.md/logo.png" alt="Logo" width="192" height="256">
   </a>
-  <h3>[PROJECT_NAME]</h3>
-  <p>[PROJECT_DESCRIPTION]</p>
+  <h3>template</h3>
+  <p>A project template</p>
   <br>
   <br>
   <p>
@@ -63,7 +63,7 @@
 
 ## About the Project
 
-<!-- TODO -->
+This is a template project which is aimed to help others with setting up new projects and GitHub repositories for them.
 
 <!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>
@@ -71,15 +71,17 @@
 
 ## Getting Started
 
-<!-- TODO -->
-
 ### Prerequisites
 
-<!-- TODO -->
+- A GitHub account
+- A will to use this template
 
 ### Setting It Up
 
-<!-- TODO -->
+Simply click the **Use this template** green button at the very top of this page to get started.
+
+Don't forget to check the **Include all branches** box when creating your repository—it is not required, but recommended
+as it will bring some extra necessary branches, e.g. `repo-assets/*` branches.
 
 <!-- markdownlint-disable -->
 <p align="right"><a href="#top">(back to top)</a></p>

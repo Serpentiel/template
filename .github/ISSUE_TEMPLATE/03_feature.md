@@ -1,9 +1,7 @@
 ---
-name: 💡 Feature Request
+name: 💡 Feature request
 about: What would make this project even better?
-title: ''
 labels: enhancement
-assignees: ''
 ---
 
 **What is currently missing?**

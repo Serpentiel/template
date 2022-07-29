@@ -25,6 +25,24 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- ### Security -->
 <!-- markdownlint-disable-next-line -->
 
+## [1.2.4] - 2022-07-29
+
+<!-- markdownlint-disable-next-line -->
+### Added
+
+- Some info to `README.md`
+
+<!-- markdownlint-disable-next-line -->
+### Changed
+
+- Drop title case from issue template names
+
+<!-- markdownlint-disable-next-line -->
+### Fixed
+
+- GitHub username in `FUNDING.yml`
+- Logo size in `README.md`
+
 ## [1.2.3] - 2022-07-29
 
 <!-- markdownlint-disable-next-line -->
@@ -122,7 +140,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - The changelog
 
 <!-- VERSION DIFFLINKS -->
-[Unreleased]: https://github.com/Serpentiel/template/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/Serpentiel/template/compare/v1.2.0...release-unreleased
+[1.2.4]: https://github.com/Serpentiel/template/compare/v1.2.3...v1.2.4
 [1.2.3]: https://github.com/Serpentiel/template/compare/v1.2.2...v1.2.3
 [1.2.2]: https://github.com/Serpentiel/template/compare/v1.2.1...v1.2.2
 [1.2.1]: https://github.com/Serpentiel/template/compare/v1.2.0...v1.2.1
