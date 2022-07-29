@@ -14,7 +14,7 @@
   <a href="https://github.com/Serpentiel/template/issues">
     <img src="https://img.shields.io/github/issues/Serpentiel/template.svg?style=for-the-badge" alt="Issues" height="28">
   </a>
-  <a href="LICENSE">
+  <a href="https://github.com/Serpentiel/template/blob/main/LICENSE.md">
     <img src="https://img.shields.io/github/license/Serpentiel/template.svg?style=for-the-badge" alt="License" height="28">
   </a>
   <br>
@@ -102,7 +102,7 @@ vulnerabilities or serious issues.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE.md`](https://github.com/Serpentiel/template/blob/main/LICENSE.md) for more information.
 
 > **N.B.** This project explicitly does not requires its contributors to sign a _Contributor License Agreement_ nor does
 > it posses one.
