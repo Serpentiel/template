@@ -21,6 +21,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
+### Fixed
+
+- GitHub username in `FUNDING.yml`
 
 <!-- ### Security -->
 <!-- markdownlint-disable-next-line -->
