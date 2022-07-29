@@ -20,7 +20,7 @@
   <br>
   <br>
   <a href="https://github.com/Serpentiel/template">
-    <img src="https://github.com/Serpentiel/template/blob/repo-assets/README.md/logo.png" alt="Logo" width="404" height="140">
+    <img src="https://github.com/Serpentiel/template/blob/repo-assets/README.md/logo.png" alt="Logo" width="192" height="256">
   </a>
   <h3>template</h3>
   <p>A project template</p>
