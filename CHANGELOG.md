@@ -15,6 +15,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Changed
 
 - Update license links in `README.md`
+- Use `pull_request` event in GitHub Actions workflows
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
