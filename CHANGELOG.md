@@ -30,6 +30,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Fixed
 
 - GitHub username in `FUNDING.yml`
+- Logo size in `README.md`
 
 <!-- ### Security -->
 <!-- markdownlint-disable-next-line -->
