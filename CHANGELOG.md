@@ -25,6 +25,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
+### Fixed
+
+- Line length in `README.md`
 
 <!-- ### Security -->
 <!-- markdownlint-disable-next-line -->
