@@ -25,12 +25,25 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- ### Security -->
 <!-- markdownlint-disable-next-line -->
 
+## [1.2.5] - 2022-07-30
+
+<!-- markdownlint-disable-next-line -->
+### Removed
+
+- `markdownlint` comments from PR template
+
+<!-- markdownlint-disable-next-line -->
+### Fixed
+
+- Changelog links
+
 ## [1.2.4] - 2022-07-29
 
 <!-- markdownlint-disable-next-line -->
 ### Added
 
 - Some info to `README.md`
+- Attribution to Font Awesome project
 
 <!-- markdownlint-disable-next-line -->
 ### Changed
@@ -140,7 +153,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - The changelog
 
 <!-- VERSION DIFFLINKS -->
-[Unreleased]: https://github.com/Serpentiel/template/compare/v1.2.0...release-unreleased
+[Unreleased]: https://github.com/Serpentiel/template/compare/v1.2.5...release-unreleased
+[1.2.5]: https://github.com/Serpentiel/template/compare/v1.2.4...v1.2.5
 [1.2.4]: https://github.com/Serpentiel/template/compare/v1.2.3...v1.2.4
 [1.2.3]: https://github.com/Serpentiel/template/compare/v1.2.2...v1.2.3
 [1.2.2]: https://github.com/Serpentiel/template/compare/v1.2.1...v1.2.2
