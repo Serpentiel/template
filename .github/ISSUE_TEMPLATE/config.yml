@@ -1,3 +1,4 @@
+blank_issues_enabled: false
 contact_links:
   - name: Contributing guidelines
     url: https://github.com/Serpentiel/template/blob/main/CONTRIBUTING.md
