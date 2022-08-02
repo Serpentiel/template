@@ -21,6 +21,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
+### Fixed
+
+- Prevent Changelog Enforcer from triggering on `push` events
 
 <!-- ### Security -->
 <!-- markdownlint-disable-next-line -->
