@@ -5,10 +5,12 @@ on:
     branches:
       - main
       - release-*
-  push:
-    branches:
-      - main
-      - release-*
+
+# TODO: This is currently not supported, see https://github.com/dangoslen/changelog-enforcer/issues/210.
+#  push:
+#    branches:
+#      - main
+#      - release-*
 
 permissions:
   contents: read
