@@ -12,6 +12,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
+### Changed
+
+- Disabled creation of issues without using a template
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
