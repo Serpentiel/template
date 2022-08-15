@@ -23,6 +23,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- ### Removed -->
 <!-- markdownlint-disable-next-line -->
 ### Removed
+
 - Dropped comment from Dependency Review workflow
 
 <!-- ### Fixed -->
