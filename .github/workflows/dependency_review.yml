@@ -6,12 +6,6 @@ on:
       - main
       - release-*
 
-# TODO: This is currently not supported, see https://github.com/actions/dependency-review-action/issues/30.
-#  push:
-#    branches:
-#      - main
-#      - release-*
-
 permissions:
   contents: read
 
