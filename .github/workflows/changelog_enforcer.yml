@@ -6,17 +6,12 @@ on:
       - main
       - release-*
 
-# TODO: This is currently not supported, see https://github.com/dangoslen/changelog-enforcer/issues/210.
-#  push:
-#    branches:
-#      - main
-#      - release-*
-
 permissions:
   contents: read
 
 jobs:
   changelog-enforcer:
     runs-on: ubuntu-latest
+    if: github.actor != 'dependabot[bot]'
     steps:
       - uses: dangoslen/changelog-enforcer@v3
