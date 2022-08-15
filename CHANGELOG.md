@@ -15,6 +15,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Changed
 
 - Disabled creation of issues without using a template
+- Disabled Changelog Enforcer for dependabot
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
