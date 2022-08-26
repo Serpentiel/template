@@ -9,18 +9,34 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Added -->
 <!-- markdownlint-disable-next-line -->
+### Added
+
+- Skip labels for Changelog Enforcer
+- Skip workflows label for Dependency Review
+- Skip workflows label for Lint
+- Auto Approve workflow
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
+### Changed
+
+- Disabled creation of issues without using a template
+- Disabled Changelog Enforcer for dependabot
 
 <!-- ### Deprecated -->
 <!-- markdownlint-disable-next-line -->
 
 <!-- ### Removed -->
 <!-- markdownlint-disable-next-line -->
+### Removed
+
+- Dropped comment from Dependency Review workflow
 
 <!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
+### Fixed
+
+- Prevent Changelog Enforcer from triggering on `push` events
 
 <!-- ### Security -->
 <!-- markdownlint-disable-next-line -->

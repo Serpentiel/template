@@ -5,6 +5,12 @@ on:
     branches:
       - main
       - release-*
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - labeled
+      - unlabeled
   push:
     branches:
       - main
@@ -16,6 +22,7 @@ permissions:
 jobs:
   markdownlint:
     runs-on: ubuntu-latest
+    if: (github.event_name == 'pull_request' && !contains(github.event.pull_request.labels.*.name, 'skip workflows')) || github.event_name == 'push'
     steps:
       - uses: actions/checkout@v3
       - uses: DavidAnson/markdownlint-cli2-action@v7
