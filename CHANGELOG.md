@@ -12,6 +12,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Added
 
 - Skip labels for Changelog Enforcer
+- Skip workflows label for Dependency Review
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
