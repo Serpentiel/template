@@ -9,6 +9,25 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Added -->
 <!-- markdownlint-disable-next-line -->
+
+<!-- ### Changed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Deprecated -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Removed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Fixed -->
+<!-- markdownlint-disable-next-line -->
+
+<!-- ### Security -->
+<!-- markdownlint-disable-next-line -->
+
+## [1.3.0] - 2022-08-26
+
+<!-- markdownlint-disable-next-line -->
 ### Added
 
 - Skip labels for Changelog Enforcer
@@ -16,30 +35,21 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Skip workflows label for Lint
 - Auto Approve workflow
 
-<!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
 ### Changed
 
 - Disabled creation of issues without using a template
 - Disabled Changelog Enforcer for dependabot
 
-<!-- ### Deprecated -->
-<!-- markdownlint-disable-next-line -->
-
-<!-- ### Removed -->
 <!-- markdownlint-disable-next-line -->
 ### Removed
 
 - Dropped comment from Dependency Review workflow
 
-<!-- ### Fixed -->
 <!-- markdownlint-disable-next-line -->
 ### Fixed
 
 - Prevent Changelog Enforcer from triggering on `push` events
-
-<!-- ### Security -->
-<!-- markdownlint-disable-next-line -->
 
 ## [1.2.5] - 2022-07-30
 
@@ -169,7 +179,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - The changelog
 
 <!-- VERSION DIFFLINKS -->
-[Unreleased]: https://github.com/Serpentiel/template/compare/v1.2.5...release-unreleased
+[Unreleased]: https://github.com/Serpentiel/template/compare/v1.3.0...release-unreleased
+[1.3.0]: https://github.com/Serpentiel/template/compare/v1.2.5...v1.3.0
 [1.2.5]: https://github.com/Serpentiel/template/compare/v1.2.4...v1.2.5
 [1.2.4]: https://github.com/Serpentiel/template/compare/v1.2.3...v1.2.4
 [1.2.3]: https://github.com/Serpentiel/template/compare/v1.2.2...v1.2.3
