@@ -7,25 +7,30 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
-### Added
 <!-- markdownlint-disable-next-line -->
+<!-- ### Added -->
+
+<!-- markdownlint-disable-next-line -->
+<!-- ### Changed -->
+
+<!-- markdownlint-disable-next-line -->
+<!-- ### Deprecated -->
+
+<!-- markdownlint-disable-next-line -->
+<!-- ### Removed -->
+
+<!-- markdownlint-disable-next-line -->
+<!-- ### Fixed -->
+
+<!-- markdownlint-disable-next-line -->
+<!-- ### Security -->
+
+## [1.3.1] - 2023-02-12
+
+<!-- markdownlint-disable-next-line -->
+### Added
 
 - `commitlint` linter
-
-<!-- ### Changed -->
-<!-- markdownlint-disable-next-line -->
-
-<!-- ### Deprecated -->
-<!-- markdownlint-disable-next-line -->
-
-<!-- ### Removed -->
-<!-- markdownlint-disable-next-line -->
-
-<!-- ### Fixed -->
-<!-- markdownlint-disable-next-line -->
-
-<!-- ### Security -->
-<!-- markdownlint-disable-next-line -->
 
 ## [1.3.0] - 2022-08-26
 
@@ -181,7 +186,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - The changelog
 
 <!-- VERSION DIFFLINKS -->
-[Unreleased]: https://github.com/Serpentiel/template/compare/v1.3.0...release-unreleased
+[Unreleased]: https://github.com/Serpentiel/template/compare/v1.3.1...main
+[1.3.1]: https://github.com/Serpentiel/template/compare/v1.3.0...v1.3.1
 [1.3.0]: https://github.com/Serpentiel/template/compare/v1.2.5...v1.3.0
 [1.2.5]: https://github.com/Serpentiel/template/compare/v1.2.4...v1.2.5
 [1.2.4]: https://github.com/Serpentiel/template/compare/v1.2.3...v1.2.4
