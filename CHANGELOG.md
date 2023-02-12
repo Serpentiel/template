@@ -7,8 +7,10 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
-<!-- ### Added -->
+### Added
 <!-- markdownlint-disable-next-line -->
+
+- `commitlint` linter
 
 <!-- ### Changed -->
 <!-- markdownlint-disable-next-line -->
