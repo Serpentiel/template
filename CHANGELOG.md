@@ -22,6 +22,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- markdownlint-disable-next-line -->
 <!-- ### Fixed -->
 
+- Ignore dependabot's commit messages in `commitlint` check
+
 <!-- markdownlint-disable-next-line -->
 <!-- ### Security -->
 
