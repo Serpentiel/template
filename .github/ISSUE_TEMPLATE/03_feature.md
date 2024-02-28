@@ -14,4 +14,4 @@ labels: enhancement
 
 **Is this a feature you would work on yourself?**
 
-* [ ] I plan to open a pull request for this feature.
+- [ ] I plan to open a pull request for this feature.

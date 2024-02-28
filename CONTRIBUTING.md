@@ -7,6 +7,7 @@
 First off, thanks for taking the time to contribute! ❤️
 
 <!-- markdownlint-disable-next-line -->
+
 All types of contributions are encouraged and valued. See the [Table of Contents](#table-of-contents) for different ways
 to help and details about how this project handles them. Please make sure to read the relevant section before making
 your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. The
@@ -158,10 +159,10 @@ Once the bug report is filed:
 - The project team will check the issue and label and/or relabel it accordingly
 - A team member will try to reproduce the issue with your provided steps
   - If there are no reproduction steps or no obvious way to reproduce the issue, the team will ask you for those steps
-      and label the issue as `needs repro`—bugs with the `needs repro` label will not be addressed until they are
-      reproduced
+    and label the issue as `needs repro`—bugs with the `needs repro` label will not be addressed until they are
+    reproduced
   - If the team is able to reproduce the issue, it will be labeled as `needs fix`, as well as possibly other labels,
-      and the issue will be left to be [implemented by someone](#your-first-code-contribution)
+    and the issue will be left to be [implemented by someone](#your-first-code-contribution)
 
 ### Suggesting Enhancements
 

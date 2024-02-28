@@ -439,7 +439,7 @@ SOFTWARE.
 ```markdown
 ### Creative Commons Attribution 4.0 International Public License
 
-*Official translations of this legal tool are available in [other languages](#languages).*
+_Official translations of this legal tool are available in [other languages](#languages)._
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this
 Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may
@@ -483,43 +483,41 @@ Licensed Material available under these terms and conditions.
 
 **Section 2 – Scope.**
 
-1. **License grant**.
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide,
-   royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the
-   Licensed Material to:
-1. reproduce and Share the Licensed Material, in whole or in part; and
-2. produce, reproduce, and Share Adapted Material.
-2. <span style="text-decoration: underline;">Exceptions and Limitations</span>. For the avoidance of doubt, where
-   Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply
-   with its terms and conditions.
-    3. <span style="text-decoration: underline;">Term</span>. The term of this Public License is specified in
-       Section [6(a)](#s6a).
-    4. <span style="text-decoration: underline;">Media and formats; technical modifications allowed</span>. The Licensor
-       authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created,
-       and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right
-       or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights,
-       including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this
-       Public License, simply making modifications authorized by this Section [2(a)(4)](#s2a4) never produces Adapted
-       Material.
-    5. <span style="text-decoration: underline;">Downstream recipients</span>.
+1.  **License grant**.
+1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide,
+    royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the
+    Licensed Material to:
+1.  reproduce and Share the Licensed Material, in whole or in part; and
+1.  produce, reproduce, and Share Adapted Material.
+1.  <span style="text-decoration: underline;">Exceptions and Limitations</span>. For the avoidance of doubt, where
+    Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply
+    with its terms and conditions. 3. <span style="text-decoration: underline;">Term</span>. The term of this Public License is specified in
+    Section [6(a)](#s6a). 4. <span style="text-decoration: underline;">Media and formats; technical modifications allowed</span>. The Licensor
+    authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created,
+    and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right
+    or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights,
+    including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this
+    Public License, simply making modifications authorized by this Section [2(a)(4)](#s2a4) never produces Adapted
+    Material. 5. <span style="text-decoration: underline;">Downstream recipients</span>.
 
-       <div class="para">
+        <div class="para">
 
-        1. <span style="text-decoration: underline;">Offer from the Licensor – Licensed Material</span>. Every recipient
-           of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights
-           under the terms and conditions of this Public License.
-        2. <span style="text-decoration: underline;">No downstream restrictions</span>. You may not offer or impose any
-           additional or different terms or conditions on, or apply any Effective Technological Measures to, the
-           Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed
-           Material.
+         1. <span style="text-decoration: underline;">Offer from the Licensor – Licensed Material</span>. Every recipient
+            of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights
+            under the terms and conditions of this Public License.
+         2. <span style="text-decoration: underline;">No downstream restrictions</span>. You may not offer or impose any
+            additional or different terms or conditions on, or apply any Effective Technological Measures to, the
+            Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed
+            Material.
 
-       </div>
+        </div>
 
     6. <span style="text-decoration: underline;">No endorsement</span>. Nothing in this Public License constitutes or
        may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is,
        connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to
        receive attribution as provided in Section [3(a)(1)(A)(i)](#s3a1Ai).
-2. **Other rights**.
+
+1.  **Other rights**.
 
     1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity,
        privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or
@@ -537,25 +535,26 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
 1. **Attribution**.
 
-    1. If You Share the Licensed Material (including in modified form), You must:
+   1. If You Share the Licensed Material (including in modified form), You must:
 
-        1. retain the following if it is supplied by the Licensor with the Licensed Material:
-            1. identification of the creator(s) of the Licensed Material and any others designated to receive
-               attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-            2. a copyright notice;
-            3. a notice that refers to this Public License;
-            4. a notice that refers to the disclaimer of warranties;
-            5. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
-        2. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
-        3. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or
-           hyperlink to, this Public License.
-    2. You may satisfy the conditions in Section [3(a)(1)](#s3a1) in any reasonable manner based on the medium, means,
-       and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions
-       by providing a URI or hyperlink to a resource that includes the required information.
-    3. If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](#s3a1A) to
-       the extent reasonably practicable.
-    4. If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the
-       Adapted Material from complying with this Public License.
+      1. retain the following if it is supplied by the Licensor with the Licensed Material:
+         1. identification of the creator(s) of the Licensed Material and any others designated to receive
+            attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         2. a copyright notice;
+         3. a notice that refers to this Public License;
+         4. a notice that refers to the disclaimer of warranties;
+         5. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+      2. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+      3. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or
+         hyperlink to, this Public License.
+
+   2. You may satisfy the conditions in Section [3(a)(1)](#s3a1) in any reasonable manner based on the medium, means,
+      and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions
+      by providing a URI or hyperlink to a resource that includes the required information.
+   3. If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](#s3a1A) to
+      the extent reasonably practicable.
+   4. If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the
+      Adapted Material from complying with this Public License.
 
 **Section 4 – Sui Generis Database Rights.**
 
@@ -586,7 +585,7 @@ License where the Licensed Rights include other Copyright and Similar Rights.
    Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where
    a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
-1. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the
+3. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the
    extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
 **Section 6 – Term and Termination.**
@@ -595,10 +594,11 @@ License where the Licensed Rights include other Copyright and Similar Rights.
    comply with this Public License, then Your rights under this Public License terminate automatically.
 2. Where Your right to use the Licensed Material has terminated under Section [6(a)](#s6a), it reinstates:
 
-    1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the
-       violation; or
-    2. upon express reinstatement by the Licensor.For the avoidance of doubt, this Section [6(b)](#s6b) does not affect
-       any right the Licensor may have to seek remedies for Your violations of this Public License.
+   1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the
+      violation; or
+   2. upon express reinstatement by the Licensor.For the avoidance of doubt, this Section [6(b)](#s6b) does not affect
+      any right the Licensor may have to seek remedies for Your violations of this Public License.
+
 3. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or
    stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 4. Sections [1](#s1), [5](#s5), [6](#s6), [7](#s7), and [8](#s8) survive termination of this Public License.

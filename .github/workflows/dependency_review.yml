@@ -4,7 +4,6 @@ on:
   pull_request:
     branches:
       - main
-      - release-*
     types:
       - opened
       - synchronize
@@ -18,7 +17,11 @@ permissions:
 jobs:
   dependency-review:
     runs-on: ubuntu-latest
-    if: (github.event_name == 'pull_request' && !contains(github.event.pull_request.labels.*.name, 'skip workflows')) || github.event_name == 'push'
+    if: >
+      (github.event_name == 'pull_request' && !contains(github.event.pull_request.labels.*.name, 'skip workflows')) ||
+      github.event_name == 'push'
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/dependency-review-action@v4
