@@ -4,7 +4,6 @@ on:
   pull_request:
     branches:
       - main
-      - release-*
     types:
       - opened
       - synchronize
@@ -14,7 +13,6 @@ on:
   push:
     branches:
       - main
-      - release-*
 
 permissions:
   contents: read
@@ -27,14 +25,15 @@ jobs:
         with:
           fetch-depth: 0
       - uses: wagoid/commitlint-github-action@v5
-  markdownlint:
+  trunk:
+    if: >
+      (github.event_name == 'pull_request' && !contains(github.event.pull_request.labels.*.name, 'skip workflows')) ||
+      github.event_name == 'push'
     runs-on: ubuntu-latest
-    if: (github.event_name == 'pull_request' && !contains(github.event.pull_request.labels.*.name, 'skip workflows')) || github.event_name == 'push'
+    permissions:
+      checks: write
     steps:
       - uses: actions/checkout@v4
-      - uses: DavidAnson/markdownlint-cli2-action@v15
         with:
-          globs: |
-            **/*.md
-            !.github/**
-            !LICENSE.md
+          fetch-depth: 0
+      - uses: trunk-io/trunk-action@v1

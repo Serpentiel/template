@@ -30,6 +30,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.3.1] - 2023-02-12
 
 <!-- markdownlint-disable-next-line -->
+
 ### Added
 
 - `commitlint` linter
@@ -37,6 +38,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.3.0] - 2022-08-26
 
 <!-- markdownlint-disable-next-line -->
+
 ### Added
 
 - Skip labels for Changelog Enforcer
@@ -45,17 +47,20 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Auto Approve workflow
 
 <!-- markdownlint-disable-next-line -->
+
 ### Changed
 
 - Disabled creation of issues without using a template
 - Disabled Changelog Enforcer for dependabot
 
 <!-- markdownlint-disable-next-line -->
+
 ### Removed
 
 - Dropped comment from Dependency Review workflow
 
 <!-- markdownlint-disable-next-line -->
+
 ### Fixed
 
 - Prevent Changelog Enforcer from triggering on `push` events
@@ -63,11 +68,13 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.2.5] - 2022-07-30
 
 <!-- markdownlint-disable-next-line -->
+
 ### Removed
 
 - `markdownlint` comments from PR template
 
 <!-- markdownlint-disable-next-line -->
+
 ### Fixed
 
 - Changelog links
@@ -75,17 +82,20 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.2.4] - 2022-07-29
 
 <!-- markdownlint-disable-next-line -->
+
 ### Added
 
 - Some info to `README.md`
 - Attribution to Font Awesome project
 
 <!-- markdownlint-disable-next-line -->
+
 ### Changed
 
 - Drop title case from issue template names
 
 <!-- markdownlint-disable-next-line -->
+
 ### Fixed
 
 - GitHub username in `FUNDING.yml`
@@ -94,12 +104,14 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.2.3] - 2022-07-29
 
 <!-- markdownlint-disable-next-line -->
+
 ### Changed
 
 - Update license links in `README.md`
 - Use `pull_request` event in GitHub Actions workflows
 
 <!-- markdownlint-disable-next-line -->
+
 ### Fixed
 
 - Line length in `README.md`
@@ -107,6 +119,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.2.2] - 2022-07-29
 
 <!-- markdownlint-disable-next-line -->
+
 ### Removed
 
 - Security policy contact link
@@ -114,6 +127,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.2.1] - 2022-07-29
 
 <!-- markdownlint-disable-next-line -->
+
 ### Changed
 
 - Release branch wildcard in GitHub Actions workflows
@@ -122,6 +136,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.2.0] - 2022-07-29
 
 <!-- markdownlint-disable-next-line -->
+
 ### Added
 
 - `lint.yml` GitHub Actions workflow featuring `markdownlint`
@@ -133,6 +148,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - `ATTRIBUTION.md`
 
 <!-- markdownlint-disable-next-line -->
+
 ### Changed
 
 - Drop trailing dots from list items in `CONTRIBUTING.md`
@@ -148,11 +164,13 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Improve pull request template
 
 <!-- markdownlint-disable-next-line -->
+
 ### Removed
 
 - `enforce_changelog_entries.yml` GitHub Actions workflow
 
 <!-- markdownlint-disable-next-line -->
+
 ### Fixed
 
 - `dependency_review.yml` GitHub Actions workflow
@@ -161,12 +179,14 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.1.0] - 2022-07-28
 
 <!-- markdownlint-disable-next-line -->
+
 ### Added
 
 - `FUNDING.yml` GitHub config
 - `enforce_changelog_entries.yml` GitHub Actions workflow
 
 <!-- markdownlint-disable-next-line -->
+
 ### Changed
 
 - Drop title case for `enforce_changelog_entries.yml` GitHub Actions workflow's name
@@ -175,6 +195,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.0.1] - 2022-07-28
 
 <!-- markdownlint-disable-next-line -->
+
 ### Changed
 
 - Lowercase the documentation word in `CONTRIBUTING.md`
@@ -182,12 +203,14 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [1.0.0] - 2022-07-28
 
 <!-- markdownlint-disable-next-line -->
+
 ### Added
 
 - The template
 - The changelog
 
 <!-- VERSION DIFFLINKS -->
+
 [Unreleased]: https://github.com/Serpentiel/template/compare/v1.3.1...main
 [1.3.1]: https://github.com/Serpentiel/template/compare/v1.3.0...v1.3.1
 [1.3.0]: https://github.com/Serpentiel/template/compare/v1.2.5...v1.3.0
