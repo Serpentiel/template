@@ -11,7 +11,10 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- ### Added -->
 
 <!-- markdownlint-disable-next-line -->
-<!-- ### Changed -->
+
+### Changed
+
+- Switch to trunk.io for linting purposes
 
 <!-- markdownlint-disable-next-line -->
 <!-- ### Deprecated -->
@@ -20,9 +23,11 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- ### Removed -->
 
 <!-- markdownlint-disable-next-line -->
-<!-- ### Fixed -->
+
+### Fixed
 
 - Ignore dependabot's commit messages in `commitlint` check
+- Prevent Changelog Enforcer from running on PRs created by trunk.io
 
 <!-- markdownlint-disable-next-line -->
 <!-- ### Security -->
